@@ -2,7 +2,7 @@
 
 ** Peace Coin DAO **
 
-[![codecov](https://codecov.io/gh/peacecoin-protocol/dao/branch/main/graph/badge.svg)](https://codecov.io/gh/peacecoin-protocol/dao)
+[![codecov](https://codecov.io/gh/pwollemi/dao-smartcontract/branch/main/graph/badge.svg)](https://codecov.io/gh/pwollemi/dao-smartcontract)
 
 ## Documentation
 
