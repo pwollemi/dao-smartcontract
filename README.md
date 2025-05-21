@@ -2,6 +2,8 @@
 
 ** Peace Coin DAO **
 
+[![codecov](https://codecov.io/gh/peacecoin-protocol/dao/branch/main/graph/badge.svg)](https://codecov.io/gh/peacecoin-protocol/dao)
+
 ## Documentation
 
 https://book.getfoundry.sh/
